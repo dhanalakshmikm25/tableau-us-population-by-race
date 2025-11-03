@@ -32,6 +32,8 @@ This dashboard analyzes the **racial composition of the U.S. population** with a
 
 ## 📷 Preview
 ![U.S. Population Dashboard](./tableau-us-population-by-race.png)
+<img width="847" height="696" alt="image" src="https://github.com/user-attachments/assets/4797b284-0888-4149-bd86-0e58d5a5bb8d" />
+
 
 ---
 

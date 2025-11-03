@@ -1,7 +1,6 @@
 # U.S. Population by Race and Asian Population Distribution
 
-**Author:** Dhanalakshmi Kannur Munirathnam  
-**Course:** BIS 582 – Data Visualization (Central Michigan University)  
+**Author:** Dhanalakshmi Kannur Munirathnam   
 **Tool:** Tableau  
 **Dataset:** U.S. Census Bureau – Population by Race and Region  
 
